@@ -5,8 +5,8 @@ from io import BytesIO
 
 # Set your desired dimensions here
 width, height = 800, 600
-source_bucket_name = 'bucket1'  # Replace with your actual source bucket name
-destination_bucket_name = 'bucket2'  # Replace with your actual destination bucket name
+source_bucket_name = ''  # Replace with your actual source bucket name
+destination_bucket_name = ''  # Replace with your actual destination bucket name
 
 s3_client = boto3.client('s3')
 
