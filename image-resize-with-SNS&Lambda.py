@@ -7,7 +7,7 @@ from io import BytesIO
 width, height = 800, 600
 source_bucket_name = ''  # Replace with your actual source bucket name
 destination_bucket_name = ''  # Replace with your actual destination bucket name
-sns_topic_arn = 'arn:aws:sns:us-east-1:123456789012:MyTopic'  # Replace with your SNS topic ARN
+sns_topic_arn = 'arn:aws:sns:just add your AZ here :123456789012:MyTopic'  # Replace with your SNS topic ARN
 
 s3_client = boto3.client('s3')
 sns_client = boto3.client('sns')
