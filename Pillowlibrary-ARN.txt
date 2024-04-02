@@ -1,0 +1,3 @@
+arn:aws:lambda:"specifiy your AZ"-1:770693421928:layer:Klayers-p39-pillow:1
+
+Thanks Someone Who Created This 
